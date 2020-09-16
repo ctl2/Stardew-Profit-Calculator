@@ -1,0 +1,9 @@
+*
+!.gitignore
+!src/
+!src/**
+!gson*
+!Data
+!LICENSE
+!NOTICE
+!README.md
